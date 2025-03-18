@@ -16,7 +16,7 @@ def main():
     import warnings
     warnings.filterwarnings('ignore')
 
-    # Load the data from the Georgia Animal Shelter Database
+    # Load the data 
     from data_loader import load_text_data
 
 
