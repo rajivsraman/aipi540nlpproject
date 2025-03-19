@@ -49,7 +49,7 @@ class TFIDFChatbot:
         response = self.openai_client.chat.completions.create(
             model="gpt-3.5-turbo",  # Weaker GPT model for focused RAG-style responses
             messages=[
-                {"role": "system", "content": "You are an expert chemistry assistant. Use only the provided context."},
+                {"role": "system", "content": "You are a chemistry assistant. ONLY use the provided context to generate responses. If the context does not contain the answer, respond with 'I don't know based on the provided context.' Do NOT use any external knowledge."},
                 {"role": "user", "content": prompt}
             ]
         )
