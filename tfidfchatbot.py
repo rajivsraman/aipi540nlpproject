@@ -64,7 +64,7 @@ class TFIDFChatbot:
 # **Run the Chatbot in Streamlit**
 st.title("TF-IDF Chatbot")
 
-folder_path = "cleaned_tfidf"  # Update this if necessary
+folder_path = "data/processed/tfidf"
 chatbot_instance = TFIDFChatbot(folder_path)
 
 user_query = st.text_input("Ask the chemistry chatbot a question:")
