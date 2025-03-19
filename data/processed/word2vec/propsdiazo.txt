@@ -1,0 +1,74 @@
+reaction of diazonium salt this page look at some typical reaction of diazonium ion including example of both substitution reaction and coupling reaction
+if you have come straight to this page from a search engine and want to know about the preparation of the diazonium ion you will find a link at the bottom of the page
+substitution reaction of diazonium ion diazonium ion are present in solution such a benzenediazonium chloride solution
+they contain an group
+in the case of benzenediazonium chloride this is attached to a benzene ring
+benzenediazonium chloride look like this in this set of reaction of the diazonium ion the group is replaced by something else
+the nitrogen is released a nitrogen gas
+substitution by an group to get this reaction all you need to do is warm the benzenediazonium chloride solution
+the diazonium ion reacts with the water in the solution and phenol is formed either in solution or a a black oily liquid depending on how much is formed
+nitrogen gas is evolved
+this is the same reaction that you get if you react phenylamine with nitrous acid in the warm
+the diazonium ion is formed first and then immediately reacts with the water in the solution to give phenol
+i am going to write the attached group at the side of the benzene ring rather than at the top
+there no very sophisticated reason for this
+when i write the equation for the coupling reaction further down this page that the way i want to draw the structure because i think it make them clearer
+i am just trying to keep everything else consistent with that
+substitution by an iodine atom this is a good example of the use of diazonium salt to substitute thing into a benzene ring which are otherwise quite difficult to attach
+that equally true of the previous reaction by the way
+if you add potassium iodide solution to the benzenediazonium chloride solution in the cold nitrogen gas is given off and you get oily droplet of iodobenzene formed
+there is a simple reaction between the diazonium ion and the iodide ion from the potassium iodide solution
+coupling reaction of diazonium ion in the substitution reaction above the nitrogen in the diazonium ion is lost
+in the rest of the reaction on this page the nitrogen is retained and used to make a bridge between two benzene ring
+the reaction with phenol phenol is dissolved in sodium hydroxide solution to give a solution of sodium phenoxide
+the solution is cooled in ice and cold benzenediazonium chloride solution is added
+there is a reaction between the diazonium ion and the phenoxide ion and a solution or precipitate is formed
+the product is one of the simplest of what are known a azo compound in which two benzene ring are linked by a nitrogen bridge
+it wa pushed off that same ring when the nitrogen became attached
+i have made a positive decision not to give name for the product of these coupling reaction
+the problem is that there are lot of different variation on the name in common use
+almost every book you look in call them something different
+one web source quoted 45 version for the compound sometimes called aniline yellow see below
+admittedly 29 of these were term like fast spirit yellow and sudan yellow r but 16 were variation on chemical name
+any name which i give is quite likely to conflict with one which you have got from another source teacher lecturer or textbook
+i not going to add to your confusion
+learn the structure and do worry too much about the name
+the reaction with is also known a or
+it contains an group attached to a naphthalene molecule rather than to a simple benzene ring
+naphthalene ha two benzene ring fused together
+the reaction is done under exactly the same condition a with phenol
+the is dissolved in sodium hydroxide solution to produce an ion just like the phenol one
+this solution is cooled and mixed with the benzenediazonium chloride solution
+an intense precipitate is formed another azo compound
+the reaction with phenylamine aniline some liquid phenylamine is added to a cold solution of benzenediazonium chloride and the mixture is shaken vigorously
+a yellow solid is produced
+these strongly coloured azo compound are frequently used a dye known a azo dye
+the one made from phenylamine aniline is known a aniline yellow amongst many other thing see note above
+azo compound account for more than half of modern dye
+the use of an azo dye a an indicator methyl orange azo compound contain a highly delocalised system of electron which take in both benzene ring and the two nitrogen atom bridging the ring
+the delocalisation can also extend to thing attached to the benzene ring a well
+if white light fall on one of these molecule some wavelength are absorbed by these delocalised electron
+the colour you see is the result of the wavelength
+the group which contribute to the delocalisation and so to the absorption of light are known a a chromophore
+canadian university site describes chromophore a one of those useful but sloppy word whose meaning depends somewhat on the context
+some source take the chromophore a being the whole of the two benzene ring and the nitrogen bridge
+others seem to take it a just the group
+i taking the line that it is the two benzene ring plus the group
+if your examiner take the more restricted meaning obviously you should go with what they want
+the only way you will find that out is to look at recent exam paper and mark scheme
+if you are a uk a level or equivalent student follow this link to the syllabus page to find out how to get hold of these if you have already got them
+modifying the group present in the molecule can have an effect on the light absorbed and so on the colour you see
+you can take advantage of this in indicator
+methyl orange is an azo dye which exists in two form depending on the ph the truth is that there is delocalisation over much of the structure and no simple picture will show it properly
+this case is discussed in detail on a page in the analysis section of the site about spectroscopy
+this is quite difficult stuff and if you are coming at this from scratch you will have to explore at least one other page before you can make sense of what is on that page
+there is a link to help you to do that
+do start this lightly
+a the hydrogen ion is lost or gained there is a shift in the exact nature of the delocalisation in the molecule and that cause a shift in the wavelength of light absorbed
+obviously that mean that you see a different colour
+when you add acid to methyl orange a hydrogen ion attache to give the red form
+methyl orange is red in acidic solution in fact solution of ph less than
+if you add an alkali hydrogen ion are removed and you get the yellow form
+methyl orange is yellow at ph greater than
+in between at some point there will be equal amount of the red and yellow form and so methyl orange look orange
+note you can find out much more about indicator in the physical chemistry part of this site
