@@ -2,7 +2,7 @@ import streamlit as st
 from tfidfchatbot import TFIDFChatbot  # Import the TF-IDF chatbot class
 
 # Initialize TF-IDF chatbot instance
-folder_path = "cleaned_tfidf"  # Ensure this folder exists with preprocessed text files
+folder_path = "data/processed/tfidf"  # Ensure this folder exists with preprocessed text files
 tfidf_chatbot = TFIDFChatbot(folder_path)
 
 # Placeholder chatbot functions for now
