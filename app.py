@@ -1,6 +1,6 @@
 import streamlit as st
 from tfidfchatbot import TFIDFChatbot
-from w2vchatbot import Word2VecChatbot
+from word2vecbot import Word2VecChatbot
 
 # Initialize chatbot instances
 folder_tfidf = "data/processed/tfidf"
