@@ -1,38 +1,38 @@
 import streamlit as st
+from tfidfchatbot import TFIDFChatbot  # Import the TF-IDF chatbot class
 
-# chatbot functions
-def chatbot_1(prompt):
-    return f"TF-IDF Model response to: {prompt}"
+# Initialize TF-IDF chatbot instance
+folder_path = "cleaned_tfidf"  # Ensure this folder exists with preprocessed text files
+tfidf_chatbot = TFIDFChatbot(folder_path)
 
+# Placeholder chatbot functions for now
 def chatbot_2(prompt):
-    return f"Word2Vec Model response to: {prompt}"
+    return "🚧 Word2Vec chatbot is not implemented yet."
 
 def chatbot_3(prompt):
-    return f"OpenAI Embeddings Model response to: {prompt}"
+    return "🚧 OpenAI Embeddings chatbot is not implemented yet."
 
-# streamlit UI
+# **Streamlit UI Setup**
 st.title("NLP Chatbot Approach Comparison")
 
-# sidebar for chatbot selection
+# Sidebar chatbot selection
 st.sidebar.header("Select a Chatbot")
 if "selected_bot" not in st.session_state:
-    st.session_state.selected_bot = "TF-IDF"
+    st.session_state.selected_bot = "TF-IDF"  # Default
 
-if st.sidebar.button("Use TF-IDF"):
-    st.session_state.selected_bot = "TF-IDF"
-if st.sidebar.button("Use Word2Vec"):
-    st.session_state.selected_bot = "Word2Vec"
-if st.sidebar.button("Use OpenAI Embeddings"):
-    st.session_state.selected_bot = "OpenAI Embeddings"
+selected_bot = st.sidebar.radio("Choose a chatbot approach:", ["TF-IDF", "Word2Vec", "OpenAI Embeddings"])
+
+st.session_state.selected_bot = selected_bot  # Store selection
 
 st.write(f"### Currently Using: {st.session_state.selected_bot}")
 
-# user prompt
+# **User Query Input**
 user_input = st.text_input("Enter your prompt:", "")
 
+# **Process and Display Response**
 if user_input:
     if st.session_state.selected_bot == "TF-IDF":
-        response = chatbot_1(user_input)
+        response = tfidf_chatbot.chatbot(user_input)
     elif st.session_state.selected_bot == "Word2Vec":
         response = chatbot_2(user_input)
     else:
