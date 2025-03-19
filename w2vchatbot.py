@@ -1,23 +1,29 @@
 import os
+
+# ✅ Force ChromaDB to use DuckDB and prevent SQLite errors
+os.environ["CHROMA_DB_IMPL"] = "duckdb"
+
 import openai
 import numpy as np
 import chromadb
-import pysqlite3  # Ensure ChromaDB uses the correct SQLite version
-import sys
 from gensim.models import Word2Vec
-
-# Override default sqlite3 with pysqlite3 for ChromaDB
-sys.modules["sqlite3"] = pysqlite3
+from chromadb.config import Settings
 
 class Word2VecChatbot:
     def __init__(self, folder_path):
-        """Initialize the chatbot with Word2Vec-based document embeddings stored in ChromaDB."""
+        """
+        Initialize the chatbot with Word2Vec-based document embeddings stored in ChromaDB.
+        Uses API key from Streamlit Cloud Secrets.
+        """
         self.folder_path = folder_path
-        self.api_key = os.getenv("RAJIV_OPENAI_API_KEY")  # Use Streamlit Secrets in app.py
+        self.api_key = os.getenv("RAJIV_OPENAI_API_KEY")
         self.openai_client = openai.OpenAI(api_key=self.api_key)
 
-        # Initialize ChromaDB with forced pysqlite3
-        self.chroma_client = chromadb.PersistentClient(path="chroma_db")
+        # ✅ Initialize ChromaDB with DuckDB storage
+        self.chroma_client = chromadb.PersistentClient(
+            path="chroma_db",
+            settings=Settings(chroma_db_impl="duckdb")  # 🔥 Explicitly force DuckDB
+        )
         self.collection = self.chroma_client.get_or_create_collection(name="chemistry_knowledge")
 
         # Load and preprocess documents
