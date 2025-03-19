@@ -1,29 +1,24 @@
 import os
 import openai
+import faiss
 import numpy as np
-import chromadb
-import pysqlite3  # Ensure ChromaDB uses the correct SQLite version
-import sys
+import streamlit as st
 from gensim.models import Word2Vec
-
-# Override default sqlite3 with pysqlite3 for ChromaDB
-sys.modules["sqlite3"] = pysqlite3
 
 class Word2VecChatbot:
     def __init__(self, folder_path):
-        """Initialize the chatbot with Word2Vec-based document embeddings stored in ChromaDB."""
+        """
+        Initialize the chatbot with Word2Vec-based document embeddings stored in FAISS.
+        Uses API key from Streamlit Cloud Secrets.
+        """
         self.folder_path = folder_path
         self.api_key = os.getenv("RAJIV_OPENAI_API_KEY")  # Use Streamlit Secrets in app.py
         self.openai_client = openai.OpenAI(api_key=self.api_key)
 
-        # Initialize ChromaDB with forced pysqlite3
-        self.chroma_client = chromadb.PersistentClient(path="chroma_db")
-        self.collection = self.chroma_client.get_or_create_collection(name="chemistry_knowledge")
-
         # Load and preprocess documents
         self.docs, self.filenames = self.load_documents()
         self.model = self.train_word2vec()
-        self.store_embeddings()
+        self.index = self.create_faiss_index()  # Use FAISS instead of ChromaDB
 
     def load_documents(self):
         """Loads text documents from the specified folder."""
@@ -47,22 +42,27 @@ class Word2VecChatbot:
         vectors = [self.model.wv[word] for word in words if word in self.model.wv]
         return np.mean(vectors, axis=0) if vectors else np.zeros(self.model.vector_size)
 
-    def store_embeddings(self):
-        """Stores Word2Vec embeddings in ChromaDB."""
-        for doc, filename in zip(self.docs, self.filenames):
-            vector = self.get_embedding(doc).tolist()
-            self.collection.add(
-                ids=[filename],
-                embeddings=[vector],
-                metadatas=[{"source": filename, "content": doc}]
-            )
+    def create_faiss_index(self):
+        """Stores Word2Vec embeddings in FAISS."""
+        d = self.model.vector_size  # Dimension of embeddings
+        index = faiss.IndexFlatL2(d) 
+
+        embeddings = []
+        for doc in self.docs:
+            vector = self.get_embedding(doc)
+            embeddings.append(vector)
+        
+        # Convert to numpy array and add to FAISS index
+        embeddings = np.array(embeddings).astype('float32')
+        index.add(embeddings)
+
+        return index
 
     def retrieve_relevant_docs(self, query, top_n=3):
-        """Retrieves the most relevant documents from ChromaDB using its built-in similarity search."""
-        query_embedding = self.get_embedding(query).tolist()
-        results = self.collection.query(query_embeddings=[query_embedding], n_results=top_n)
-
-        return "\n".join([doc["content"] for doc in results["metadatas"][0]]) if results["metadatas"] else "No relevant documents found."
+        """Retrieves the most relevant documents from FAISS using similarity search."""
+        query_embedding = np.array([self.get_embedding(query)]).astype('float32')
+        _, indices = self.index.search(query_embedding, top_n)
+        return "\n".join([self.docs[i] for i in indices[0]]) if indices[0].size > 0 else "No relevant documents found."
 
     def generate_response(self, context, user_query):
         """Generates a response using OpenAI GPT based on retrieved context."""
