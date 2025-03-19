@@ -1,0 +1,36 @@
+amine and nitrous acid this page look at the reaction of nitrous acid with aliphatic amine those where the amine group is attached directly to a benzene ring
+nitrous acid is properly called nitric iii acid but that name is commonly used
+reaction between nitrous acid and aromatic amine like phenylamine where the group is attached directly to a benzene ring are dealt with elsewhere
+testing for the various type of amine background the reaction between amine and nitrous acid wa used in the past a a very neat way of distinguishing between primary secondary and tertiary amine
+however the product with a secondary amine is a powerful carcinogen and so this reaction is no longer carried out at this level
+nitrous acid hno2 sometimes written a hono to show it structure is unstable and is always prepared in situ
+it is usually made by reacting a solution containing sodium or potassium nitrite sodium or potassium nitrate iii with hydrochloric acid
+nitrous acid is a weak acid and so you get the reaction because nitrous acid is a weak acid the position of equilibrium lie well the right
+in each of the following reaction the amine would be acidified with hydrochloric acid and a solution of sodium or potassium nitrite added
+the acid and the nitrite form nitrous acid which then reacts with the amine
+primary amine and nitrous acid the main observation is a burst of colourless odourless gas
+nitrogen is given off
+unfortunately there is no single equation that you can quote for this
+you get lot of different organic product
+for example amongst the product you get an alcohol where the group ha been replaced by oh
+if you want a single equation you could quote taking a an example
+but the will be only one product among many including propene and others
+the nitrogen however is given off in quantity exactly a suggested by the equation
+by measuring the amount of nitrogen produced you could use this reaction to work out the amount of amine present in the solution
+in the first instance you get a diazonium ion formed for example
+unless the group is attached directly to a benzene ring these ion are very unstable and fall apart immediately to give nitrogen gas and a carbocation carbonium ion in this example
+it is rearrangement and reaction of this ion which lead to the mess of product
+with aromatic amine like phenylamine aniline the diazonium ion formed is much more stable
+if you are interested in reaction of diazonium ion but only in the context of amine like phenylamine follow this link
+on your browser if you want to return to this page later
+secondary amine and nitrous acid this time there is any gas produced
+instead you get a yellow oil called a nitrosamine
+these compound are powerful carcinogen avoid them
+for example tertiary amine and nitrous acid again a quite different result
+this time nothing visually interesting happens you are left with a colourless solution
+all that ha happened is that the amine ha formed an ion by reacting with the acid present
+with trimethylamine for example you would get a trimethylammonium ion ch3
+this is actually a bit misleading
+the solution will contain trimethylammonium ion and nitrite ion and also chloride ion from the hydrochloric acid
+there is any reason why the trimethylammonium ion should be thought of a combining with the nitrite ion in some way rather than with the chloride ion
+they are all just ion milling around in the solution

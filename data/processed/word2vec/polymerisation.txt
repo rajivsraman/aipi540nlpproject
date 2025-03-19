@@ -1,0 +1,101 @@
+the polymerisation of alkene this page look at the polymerisation of alkene to produce polymer like poly ethene usually known a polythene and sometimes a polyethylene poly propene old name polypropylene pvc and ptfe
+it also look briefly at how the structure of the polymer affect their property and us
+poly ethene polythene or polyethylene low density poly ethene ldpe manufacture in common with everything else on this page this is an example of addition polymerisation
+an addition reaction is one in which two or more molecule join together to give a single product
+during the polymerisation of ethene thousand of ethene molecule join together to make poly ethene commonly called polythene
+ethene is known a the monomer
+poly ethene is the polymer
+the number of molecule joining up is very variable but is in the region of 2000 to 20000
+condition the number of molecule joining up is very variable but is in the region of 2000 to 20000
+condition property and us low density poly ethene ha quite a lot of branching along the hydrocarbon chain and this prevents the chain from lying tidily close to each other
+those region of the poly ethene where the chain lie close to each other and are regularly packed are said to be crystalline
+where the chain are a random jumble it is said to be amorphous
+low density poly ethene ha a significant proportion of amorphous region
+these vary from 50 to 75
+i have no idea what the correct value is
+one chain is held to it neighbour in the structure by van der waals dispersion force
+those attraction will be greater if the chain are close to each other
+the amorphous region where the chain are inefficiently packed lower the effectiveness of the van der waals attraction and so lower the melting point and strength of the polymer
+they also lower the density of the polymer hence low density poly ethene
+waals force
+on your browser to return to this page
+low density poly ethene is used for familiar thing like plastic carrier bag and other similar low strength and flexible sheet material
+high density poly ethene hdpe manufacture this is made under quite different condition from low density poly ethene
+condition catalyst are mixture of titanium compound like titanium iii chloride ticl3 or titanium iv chloride ticl4 and compound of aluminium like aluminium triethyl al c2h5 3
+there are all sort of other catalyst constantly being developed
+these catalyst work by totally different mechanism from the high pressure process used to make low density poly ethene
+the chain grow in a much more controlled much less random way
+property and us high density poly ethene ha very little branching along the hydrocarbon chain the crystallinity is 95 or better
+this better packing mean that van der waals attraction between the chain are greater and so the plastic is stronger and ha a higher melting point
+it density is also higher because of the better packing and smaller amount of wasted space in the structure
+hdpe is only about 3 denser than ldpe
+hdpe ha a density of about g compared with about for ldpe
+high density poly ethene is used to make thing like plastic milk bottle and similar container washing up bowl plastic pipe and so on
+look for the letter hdpe near the recycling symbol
+poly propene polypropylene pp poly propene is manufactured using and other modern catalyst
+there are three variant on the structure of poly propene which you may need to know about but we start from the beginning with a general structure which fit all of them
+it is pointless getting bogged down in this if you do need to
+if you are studying a syllabus and have got a copy of that syllabus follow this link to find out how to get one
+or history file or go menu on your browser to return to this page later
+the general structure if your syllabus simply mention the structure of poly propene with no more detail this is adequate
+the trick is to think about the shape of the propene in the right way now line lot of them up in a row and join them together
+notice that the double bond are all replaced by single bond in the process
+in a simple equation form this is normally written a the three variation on this structure you have got to remember that the diagram above are
+real poly propene chain are
+there are three different sort of poly propene depending in how the ch3 group are arranged in space
+these are called isotactic atactic and syndiotactic poly propene
+the commonly used version is isotactic poly propene
+isotactic poly propene a bit of the isotactic poly propene chain look like this if you are very happy about the various way of drawing organic structure it might be worth following this link before you go on
+on your browser to return to this page
+this very regular arrangement of the ch3 group make it possible for the chain to pack close together and so maximise the amount of van der waals bonding between them
+that mean that isotactic poly propene is quite strong either a a solid object or when it is drawn into fibre
+this is the common form of poly propene which is used to make plastic crate and rope amongst many other thing
+look for the letter pp near the recycling symbol
+atactic poly propene in atactic poly propene the ch3 group are orientated randomly along the chain
+this lack of regularity make it impossible for the chain to lie closely together and so the van der waals attraction between them are weaker
+atactic poly propene is much softer with a lower melting point
+it is formed a a waste product during the manufacture of isotactic poly propene and it us are limited
+it is used for example in road paint in making roofing material like roofing felt and in some sealant and adhesive
+syndiotactic poly propene syndiotactic poly propene is a relatively new material and is another regularly arranged version of poly propene
+in this case every alternate ch3 group is orientated in the same way
+this regularity mean that the chain can pack closely and van der waals attraction will be fairly strong
+however the attraction are a strong a in isotactic poly propene
+this make syndiotactic poly propene softer and give it a lower melting point
+because syndiotactic poly propene is relatively new at the time of writing us were still being developed
+it ha us in packaging for example in plastic film for shrink wrapping food
+there are also medical us for example in medical tubing and for medical bag and pouch
+there are a wide range of other potential us either on it own or in mixture with isotactic poly propene
+poly chloroethene polyvinyl chloride pvc poly chloroethene is commonly known by the initial of it old name pvc
+structure poly chloroethene is made by polymerising chloroethene
+working out it structure is no different from working out the structure of poly propene see above
+a long a you draw the chloroethene molecule in the right way the structure is pretty obvious
+the equation is usually written it doe matter which carbon you attach the chlorine to in the original molecule
+just be consistent on both side of the equation
+the polymerisation process produce mainly atactic polymer molecule with the chlorine orientated randomly along the chain
+the structure is no different from atactic poly propene just replace the ch3 group by chlorine atom
+because of the way the chlorine atom stick out from the chain at random and because of their large size it is difficult for the chain to lie close together
+poly chloroethene is mainly amorphous with only small area of crystallinity
+property and us you normally expect amorphous polymer to be more flexible than crystalline one because the force of attraction between the chain tend to be weaker
+however pure poly chloroethene tends to be rather hard and rigid
+this is because of the presence of additional interaction due to the polarity of the bond
+chlorine is more electronegative than carbon and so attracts the electron in the bond towards itself
+that make the chlorine atom slightly negative and the carbon slightly positive
+these permanent dipole add to the attraction due to the temporary dipole which produce the dispersion force
+if you do understand about electronegativity and polar bond then follow this one a well
+or history file or go menu on your browser to return to this page
+plasticiser are added to the poly chloroethene to reduce the effectiveness of these attraction and make the plastic more flexible
+the more plasticiser you add the more flexible it becomes
+poly chloroethene is used to make a wide range of thing including guttering plastic window electrical cable insulation sheet material for flooring and other us footwear clothing and so on and so on
+poly tetrafluoroethene ptfe you may have come across this under the brand name of teflon or fluon
+structure structurally ptfe is just like poly ethene except that each hydrogen in the structure is replaced by a fluorine atom
+the ptfe chain tend to pack well and ptfe is fairly crystalline
+the chain are rather and can lie closely together rather like pencil in a box
+property and us ptfe ha a relatively high melting point of and is very resistant to chemical attack
+the carbon chain is so wrapped up in fluorine atom that nothing can get at it to react with it
+this make it useful in the chemical and food industry to coat vessel and make them resistant to almost everything which might otherwise corrode them
+equally important is that ptfe ha remarkable property which is the basis for it most familiar us in kitchen and garden tool
+it also ha a very low coefficient of friction and is used in thing like bearing
+you will find a detailed discussion of all this on a page about the physical property of ptfe in the section of question that i ca answer to my satisfaction
+this ha become increasingly more accurate over the year and i am now fairly confident that it is a close to the truth a i am likely to get
+if you might be asked about this in an exam it is essential that you find out what your examiner want by looking at past paper and mark scheme
+if you follow this link you will need to on your browser to return to this page
