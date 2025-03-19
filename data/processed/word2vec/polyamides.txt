@@ -1,0 +1,59 @@
+polyamide this page look at the structure formation hydrolysis and us of the polyamide nylon and kevlar
+what are polyamide
+polyamide are polymer where the repeating unit are held together by amide link
+an amide group ha the formula conh2
+an amide link ha this structure in an amide itself of course the bond on the right is attached to a hydrogen atom
+if you are interested in the presence of this group in protein you could follow this link
+on your browser to return to this page
+nylon in nylon the repeating unit contain chain of carbon atom
+that is different from kevlar where the repeating unit contain benzene ring see below
+there are various different type of nylon depending on the nature of those chain
+is made from two monomer each of which contain 6 carbon atom hence it name
+one of the monomer is a 6 carbon acid with a group at each end hexanedioic acid
+the other monomer is a 6 carbon chain with an amino group at each end
+this is also known a
+when these two compound polymerise the amine and acid group combine each time with the loss of a molecule of water
+this is known a condensation polymerisation
+condensation polymerisation is the formation of a polymer involving the loss of a small molecule
+in this case the molecule is water but in other case different small molecule might be lost
+the diagram show the loss of water between two of the monomer this keep on happening and so you get a chain which look like this learn the structure of the monomer and then practice writing them down and removing water from them a shown above
+if you are doing uk a level you are unlikely to need the structure of
+i am including it to show that it is possible to get a polyamide from a single monomer
+is made from a monomer called caprolactam
+notice that this already contains an amide link
+when this molecule polymerises the ring open and the molecule join up in a continuous chain
+kevlar kevlar is similar in structure to except that instead of the amide link joining chain of carbon atom together they join benzene ring
+the two monomer are acid and
+if you line these up and remove water between the and group in the same way a we did with you get the structure of kevlar making making industrially is made by polymerising hexanedioic acid and exactly a shown further up the page
+because the acid is acidic and the amine is basic they first react together to form a salt
+that is then converted into by heating it under pressure at
+the two monomer can both be made from cyclohexane
+oxidation of the cyclohexane open the ring of carbon atom and produce a group at each end
+that give you the hexanedioic acid
+some of that can then be converted into the
+the acid is treated with ammonia to produce the ammonium salt
+the ammonium salt is heated to in the presence of hydrogen and a nickel catalyst
+this both dehydrates the salt and reduces it to the
+making in the lab in the lab it is easy to make at room temperature using an acyl chloride acid chloride rather than an acid
+the is used just a before but hexanedioyl dichloride is used instead of hexanedioic acid
+if you compare the next diagram with the diagram further up the page for the formation of you will see that the only difference is that molecule of hcl are lost rather than molecule of water
+if you follow this link on your browser to return to this page
+in the lab this reaction is the basis for the nylon rope trick
+you make a solution of the hexanedioyl dichloride in an organic solvent and a solution of in water
+you carefully float one solution on top of the other in a small beaker taking care to get a little mixing a possible
+form at the boundary between the two solution
+if you pick up the boundary layer with a pair of tweezer you can pull out an amazingly long tube of nylon from the beaker
+this will affect which layer is at the top and which layer at the bottom depending on the density of the two solution
+for specific detail you should find this experiment in most organic practical book at this level or a google search for nylon rope trick will throw up lot of variation
+hydrolysis of polyamide simple amide are easily hydrolysed by reaction with dilute acid or alkali
+polyamide are fairly readily attacked by strong acid but are much more resistant to alkaline hydrolysis
+hydrolysis is faster at higher temperature
+hydrolysis by water alone is so slow a to be completely unimportant
+kevlar is rather more resistant to hydrolysis than nylon is
+if you spill something like dilute sulphuric acid on a fabric made from nylon the amide linkage are broken
+the long chain break and you can eventually end up with the original monomer hexanedioic acid and
+because you produce small molecule rather than the original polymer the fibre are destroyed and you end up with a hole
+us of polyamide nylon apart from obvious us in textile for clothing and carpet a lot of nylon is used to make tyre cord the inner structure of a vehicle tyre underneath the rubber
+the fibre are also used in rope and nylon can be cast into solid shape for cog and bearing in machine for example
+kevlar kevlar is a very strong material about five time a strong a steel weight for weight
+it is used in bulletproof vest in composite for boat construction in lightweight mountaineering rope and for lightweight ski and racquet amongst many other thing
