@@ -1,0 +1,28 @@
+making phenylamine this page look in outline at the preparation of phenylamine also known a aniline or aminobenzene starting from benzene
+the benzene is first converted to nitrobenzene which is in turn reduced to phenylamine
+benzene to nitrobenzene benzene is nitrated by replacing one of the hydrogen atom on the benzene ring by a nitro group no2
+the benzene is treated with a mixture of concentrated nitric acid and concentrated sulphuric acid at a temperature not exceeding
+the mixture is held at this temperature for about half an hour
+yellow oily nitrobenzene is formed
+you could write this in a more condensed form a the concentrated sulphuric acid is acting a a catalyst and so is written into the equation
+the temperature is kept relatively low to prevent more than one nitro group being substituted onto the ring
+history file or go menu on your browser to return to this page later
+nitrobenzene to phenylamine the conversion is done in two main stage stage 1 conversion of nitrobenzene into phenylammonium ion nitrobenzene is reduced to phenylammonium ion using a mixture of tin and concentrated hydrochloric acid
+the mixture is heated under reflux in a boiling water bath for about half an hour
+under the acidic condition rather than getting phenylamine directly you instead get phenylammonium ion formed
+the lone pair on the nitrogen in the phenylamine pick up a hydrogen ion from the acid
+the for this reaction is the nitrobenzene ha been reduced by gaining electron in the presence of the acid
+the electron come from the tin which form both tin ii and tin iv ion
+combining them into full equation lead you to some really scary equation where it is difficult to see what is going on
+the problem is made much worse because the tin ion formed go on to react with chloride ion from the hydrochloric acid to form complex ion such a
+if you are sure about you could follow this link but it really is important for uk a level purpose to worry too much about this in the present context
+you are unlikely to need much more than the condition for the reaction
+on your browser to return to this page if you should decide to follow this link
+stage 2 conversion of the phenylammonium ion into phenylamine all you need to do is to remove the hydrogen ion from the group
+sodium hydroxide solution is added to the product of the first stage of the reaction
+the phenylamine is formed together with a complicated mixture of tin compound from reaction between the sodium hydroxide solution and the complex tin ion formed during the first stage
+the phenylamine is finally separated from this mixture
+the separation is long tedious and potentially dangerous involving steam distillation solvent extraction and a final distillation
+i not going to make any attempt to describe this in detail
+if you want detail refer to any good practical organic chemistry textbook
+summary what you are likely to need for uk a level chemistry purpose can be summed up by you are almost bound to need the mechanism for the nitration reaction a well

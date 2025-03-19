@@ -1,0 +1,94 @@
+electronic structure and atomic orbitals a simple view in any introductory chemistry course you will have come across the electronic structure of hydrogen and carbon drawn a a level
+it is however a simplification and can be misleading
+it give the impression that the electron are circling the nucleus in orbit like planet around the sun
+a you will see in a moment it is impossible to know exactly how they are actually moving
+the circle show energy level representing increasing distance from the nucleus
+you could straighten the circle out and draw the electronic structure a a simple energy diagram
+atomic orbitals orbit and orbitals sound similar but they have quite different meaning
+it is essential that you understand the difference between them
+the impossibility of drawing orbit for electron to plot a path for something you need to know exactly where the object is and be able to work out exactly where it going to be an instant later
+you ca do this for electron
+equally it no use knowing that it is travelling at 500 mph due west if you have no idea whether it is near iceland or the azores at that particular moment
+the heisenberg uncertainty principle not required at say loosely that you ca know with certainty both where an electron is and where it going next
+that make it impossible to plot an orbit for an electron around a nucleus
+is this a big problem
+no
+if something is impossible you have to accept it and find a way around it
+hydrogen electron the 1 orbital this is just for clarity
+suppose you had a single hydrogen atom and at a particular instant plotted the position of the one electron
+soon afterwards you do the same thing and find that it is in a new position
+you have no idea how it got from the first place to the second
+you keep on doing this over and over again and gradually build up a sort of 3d map of the place that the electron is likely to be found
+in the hydrogen case the electron can be found anywhere within a spherical space surrounding the nucleus
+the diagram show a through this spherical space
+95 of the time or any other percentage you choose the electron will be found within a fairly easily defined region of space quite close to the nucleus
+such a region of space is called an orbital
+you can think of an orbital a being the region of space in which the electron life
+universe
+what is the electron doing in the orbital
+we do know we ca know and so we just ignore the problem
+all you can say is that if an electron is in a particular orbital it will have a particular definable energy
+each orbital ha a name
+the orbital occupied by the hydrogen electron is called a 1 orbital
+the 1 represents the fact that the orbital is in the energy level closest to the nucleus
+the s tell you about the shape of the orbital
+s orbitals are spherically symmetric around the nucleus in each case like a hollow ball made of rather chunky material with the nucleus at it centre
+the orbital on the left is a 2 orbital
+this is similar to a 1 orbital except that the region where there is the greatest chance of finding the electron is further from the nucleus this is an orbital at the second energy level
+if you look carefully you will notice that there is another region of slightly higher electron density where the dot are thicker nearer the nucleus
+electron density is another way of talking about how likely you are to find an electron at a particular place
+2 and 3 4 etc electron spend some of their time closer to the nucleus than you might expect
+the effect of this is to slightly reduce the energy of electron in s orbitals
+the nearer the nucleus the electron get the lower their energy
+3 4 etc orbitals get progressively further from the nucleus
+p orbitals not all electron inhabit s orbitals in fact very few electron live in s orbitals
+at the first energy level the only orbital available to electron is the 1 orbital but at the second level a well a a 2 orbital there are also orbitals called 2p orbitals
+a p orbital is rather like 2 identical balloon tied together at the nucleus
+the diagram on the right is a through that region of space
+once again the orbital show where there is a 95 chance of finding a particular electron
+not all electron inhabit s orbitals in fact very few electron live in s orbitals
+at the first energy level the only orbital available to electron is the 1 orbital but at the second level a well a a 2 orbital there are also orbitals called 2p orbitals
+a p orbital is rather like 2 identical balloon tied together at the nucleus
+the diagram on the right is a through that region of space
+once again the orbital show where there is a 95 chance of finding a particular electron
+beyond if you imagine a horizontal plane through the nucleus with one lobe of the orbital above the plane and the other beneath it there is a zero probability of finding the electron on that plane
+so how doe the electron get from one lobe to the other if it can never pas through the plane of the nucleus
+for chemistry you just have to accept that it doe
+if you want to find out more read about the wave nature of electron
+unlike an s orbital a p orbital point in a particular direction the one drawn point up and down the page
+at any one energy level it is possible to have three absolutely equivalent p orbitals pointing mutually at right angle to each other
+these are arbitrarily given the symbol px py and pz
+this is simply for convenience what you might think of a the x y or z direction change constantly a the atom tumble in space
+the p orbitals at the second energy level are called 2px 2py and 2pz
+there are similar orbitals at subsequent level 3px 3py 3pz 4px 4py 4pz and so on
+all level except for the first level have p orbitals
+at the higher level the lobe get more elongated with the most likely place to find the electron more distant from the nucleus
+fitting electron into orbitals because for the moment we are only interested in the electronic structure of hydrogen and carbon we do need to concern ourselves with what happens beyond the second energy level
+remember at the first level there is only one orbital the 1 orbital
+at the second level there are four orbitals the 2 2px 2py and 2pz orbitals
+each orbital can hold either 1 or 2 electron but no more
+orbitals can be represented a box with the electron in them shown a arrow
+often an and a are used to show that the electron are in some way different
+beyond the need to have all electron in an atom different come out of quantum theory
+if they live in different orbitals that fine but if they are both in the same orbital there ha to be some subtle distinction between them
+quantum theory allocates them a property known a spin which is what the arrow are intended to suggest
+a 1 orbital holding 2 electron would be drawn a shown on the right but it can be written even more quickly a 1s2
+this is read a one s two not a one s squared
+you must confuse the two number in this notation the order of filling orbitals electron fill low energy orbitals closer to the nucleus before they fill higher energy one
+where there is a choice between orbitals of equal energy they fill the orbitals singly a far a possible
+the diagram not to scale summarises the energy of the various orbitals in the first and second level
+notice that the 2 orbital ha a slightly lower energy than the 2p orbitals
+that mean that the 2 orbital will fill with electron before the 2p orbitals
+all the 2p orbitals have exactly the same energy
+the electronic structure of hydrogen hydrogen only ha one electron and that will go into the orbital with the lowest energy the 1 orbital
+hydrogen ha an electronic structure of 1s1
+we have already described this orbital earlier
+the electronic structure of carbon carbon ha six electron
+two of them will be found in the 1 orbital close to the nucleus
+the next two will go into the 2 orbital
+the remaining one will be in two separate 2p orbitals
+this is because the p orbitals all have the same energy and the electron prefer to be on their own if that the case
+they do
+all of the 2p orbitals are exactly equivalent and the name we give them are entirely arbitrary
+it just look tidier if we call the orbitals the electron occupy the 2px and 2py
+the electronic structure of carbon is normally written 1s22s22px12py1
