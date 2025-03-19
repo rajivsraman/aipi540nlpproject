@@ -1,13 +1,13 @@
 import streamlit as st
-from tfidfchatbot import TFIDFChatbot  # Import the TF-IDF chatbot class
+from tfidfchatbot import TFIDFChatbot
+from word2vec_chatbot import Word2VecChatbot
 
-# Initialize TF-IDF chatbot instance
-folder_path = "data/processed/tfidf"  # Ensure this folder exists with preprocessed text files
-tfidf_chatbot = TFIDFChatbot(folder_path)
+# Initialize chatbot instances
+folder_tfidf = "data/processed/tfidf"
+folder_word2vec = "data/processed/word2vec"
 
-# Placeholder chatbot functions for now
-def chatbot_2(prompt):
-    return "🚧 Word2Vec chatbot is not implemented yet."
+tfidf_chatbot = TFIDFChatbot(folder_tfidf)
+word2vec_chatbot = Word2VecChatbot(folder_word2vec)
 
 def chatbot_3(prompt):
     return "🚧 OpenAI Embeddings chatbot is not implemented yet."
@@ -34,7 +34,7 @@ if user_input:
     if st.session_state.selected_bot == "TF-IDF":
         response = tfidf_chatbot.chatbot(user_input)
     elif st.session_state.selected_bot == "Word2Vec":
-        response = chatbot_2(user_input)
+        response = word2vec_chatbot.chatbot(user_input)
     else:
         response = chatbot_3(user_input)
     
