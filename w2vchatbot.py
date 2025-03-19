@@ -16,7 +16,7 @@ class Word2VecChatbot:
         self.openai_client = openai.OpenAI(api_key=self.api_key)
 
         # Initialize ChromaDB
-        self.chroma_client = chromadb.PersistentClient(path="chroma_db")
+        self.chroma_client = chromadb.PersistentClient(path="chroma_db", settings={"chroma_db_impl": "duckdb"})
         self.collection = self.chroma_client.get_or_create_collection(name="chemistry_knowledge")
 
         # Load and preprocess documents
